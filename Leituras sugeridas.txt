@@ -1,0 +1,35 @@
+Leituras sugeridas no curso de front-end com boas práticas
+
+Aula 1 (10/08/2018)
+
+https://rocketseat.com.br/
+https://zeplin.io/
+https://caniuse.com/
+
+Aula 4 (14/08/2018)
+
+https://github.com/adam-golab/react-developer-roadmap
+
+https://willianjusten.com.br/falando-sobre-rscss/
+
+Aula 5 (15/08/2018)
+
+Layout utilizado no curso
+https://dribbble.com/shots/4361798-Personal-Portfolio-template-XD-Freebie
+
+img.svg pode aumentar ou diminuir sem distorcer.
+
+ESTUDAR: Expressão regular 
+
+https://tableless.com.br/o-basico-sobre-expressoes-regulares/
+
+livro:
+https://novatec.com.br/livros/expressoes-regulares-5ed/
+
+cupom: pinceladasdaweb
+
+Livro:
+https://leanpub.com/dockerparadesenvolvedores
+
+Pare de chutar e aprenda a display: inline #01
+https://www.youtube.com/watch?v=5PS6ku8NzIE&list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x
