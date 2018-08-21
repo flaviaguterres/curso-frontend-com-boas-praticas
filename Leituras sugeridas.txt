@@ -57,3 +57,15 @@ https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGjLmjwfRc0Q9TA5U-PCWp4
 
 Diversos temas de CSS
 https://www.youtube.com/playlist?list=PLBbHLUbqqCrTo0petczXlirn5eGURspE9
+
+Aula 8 (20/08/2018)
+
+DICA DE HOSPEDAGEM:
+https://id.heroku.com/login
+
+https://www.digitalocean.com/S
+
+https://www.umbler.com/br?utm_source=google&utm_medium=cpc&utm_term=umbler&utm_campaign=br+institucional+p&gclid=CjwKCAjwzenbBRB3EiwAItS-u57xYRAKJ5UM8WiEo77IChM1MluUiZvxX546qA5zsBcPtpIyTSSmNhoCaQoQAvD_BwE
+
+ROADMAP FRONT-END
+https://github.com/cookingscript/cs-guide-line
