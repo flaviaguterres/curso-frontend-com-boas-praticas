@@ -9,27 +9,51 @@ https://caniuse.com/
 Aula 4 (14/08/2018)
 
 https://github.com/adam-golab/react-developer-roadmap
-
 https://willianjusten.com.br/falando-sobre-rscss/
 
 Aula 5 (15/08/2018)
 
-Layout utilizado no curso
-https://dribbble.com/shots/4361798-Personal-Portfolio-template-XD-Freebie
-
+DICA: 
 img.svg pode aumentar ou diminuir sem distorcer.
 
-ESTUDAR: Expressão regular 
+LAYOUT UTILIZADO NO CURSO
+https://dribbble.com/shots/4361798-Personal-Portfolio-template-XD-Freebie
 
+ESTUDAR: 
+
+Expressão regular 
 https://tableless.com.br/o-basico-sobre-expressoes-regulares/
 
-livro:
+LIVRO:
 https://novatec.com.br/livros/expressoes-regulares-5ed/
+CUPOM DE DESCONTO: pinceladasdaweb
 
-cupom: pinceladasdaweb
-
-Livro:
 https://leanpub.com/dockerparadesenvolvedores
 
+VÍDEO
 Pare de chutar e aprenda a display: inline #01
 https://www.youtube.com/watch?v=5PS6ku8NzIE&list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x
+
+Aula 6 (16/08/2018)
+
+https://willianjusten.com.br/organizando-seu-css-com-itcss/
+
+Aula 7 (17/08/2018)
+
+Meet the Pseudo Class Selectors
+https://css-tricks.com/pseudo-class-selectors/
+
+As lindas pseudo-class
+https://www.felipefialho.com/blog/2016/css-o-fodastico-not
+
+Pseudo-elementos
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elementos
+
+A Complete Guide to Flexbox
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Curso de CSS Flexbox
+https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGjLmjwfRc0Q9TA5U-PCWp4
+
+Diversos temas de CSS
+https://www.youtube.com/playlist?list=PLBbHLUbqqCrTo0petczXlirn5eGURspE9
