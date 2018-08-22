@@ -69,3 +69,12 @@ https://www.umbler.com/br?utm_source=google&utm_medium=cpc&utm_term=umbler&utm_c
 
 ROADMAP FRONT-END
 https://github.com/cookingscript/cs-guide-line
+
+Aula 9 (21/08/2018)
+
+CURSO DE JAVASCRIPT
+https://rocketseat.com.br/curso-javascript-basico-do-zero
+
+FERRAMENTAS PARA TESTE
+https://www.cypress.io/
+https://blisk.io/ (pago)

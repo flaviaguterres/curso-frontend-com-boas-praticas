@@ -1,11 +1,26 @@
 .main-card {
     display: inline-block;
     position: relative;
-    background-color: #754ef9;
+    background-color: rgb(117, 78, 249);
+    background-image: linear-gradient(
+        rgba(117, 78, 249, 0.92),
+        rgba(117, 78, 249, 0.92)
+    ),
+    url(../../img/baby.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     width: 728px;
     height: 362px;
     vertical-align: top;
     color: #f3f3f3;
+    transform-origin: left center;
+    transform: scale(1);
+
+    transition: transform 200ms linear;
+}
+
+.main-card.-isActive {
+    transform: scale(1.502);
 }
 
 .main-card .content {
