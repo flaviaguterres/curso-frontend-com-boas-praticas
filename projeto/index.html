@@ -33,6 +33,7 @@
     <link rel="stylesheet" href="css/components/card-channel.css">
     <link rel="stylesheet" href="css/components/main-card.css">
     <link rel="stylesheet" href="css/components/main-expand.css">
+    <link rel="stylesheet" href="css/components/main-carousel.css">
 </head>
 
 <body>
@@ -156,7 +157,33 @@
         </div>
     </section>
 
+    <section>
+        <h1 class="main-title">Depoimentos</h1>
+        <h2 class="main-subtitle">Pessoas felizes</h2>
+
+        <div class="main-carousel">
+            <ol class="cards">
+                <li id="first" class="card"></li>
+                <li id="second" class="card -isActive"></li>
+                <li id="third" class="card"></li>
+            </ol>
+
+            <ol class="bullets">
+                <li class="bullet">
+                    <a href="#first">Primeiro</a>
+                </li>
+                <li class="bullet -isActive">
+                    <a href="#second">Segundo</a>
+                </li>
+                <li class="bullet">
+                    <a href="#third">Terceiro</a>
+                </li>
+            </ol>
+        </div>
+    </section>
+
     <script src="js/component/main-expand.js"></script>
+    <script src="js/component/main-carousel.js"></script>
 </body>
 
 </html>
