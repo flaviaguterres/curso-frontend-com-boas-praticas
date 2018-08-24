@@ -1,9 +1,9 @@
 /*
-    Objetivo: deixar o primeiro bullet com opacity 1 assim que o usuário clicar nele
-    1 - Pegar o primeiro component com class bullet (OK)
-    2 - Adiconar um ouvinte para o evento de clique do component que pegarmos anteriormente (OK)
-    3 - No evento do clique nós queremos adicionar a class -isActive (OK)
-    4 - Se o component bullet tiver a class -isActive nos queremos removéla caso contrario nós deveremos adicionar a class -isActive
+    Objetivo: Fazer com que o card relacionado com o bullet tem a class -isActive
+    1 - Pegar o card que está ativo no momento que o navegador carrega o nosso JS
+    2 - Pegar o card relacionado com o bullet
+    3 - Remover o class -isActive do card que está com ela no momento que o navegador carrega o nosso site
+    4 - Adicionar a class -isActive para este card
 */
 
 /* 
@@ -11,10 +11,26 @@
     DOM (Document Object Model) - document
 */
 
-var $bullet = document.querySelector('.bullet')
+var $bullet = document.querySelectorAll('.bullet')
+var $bulletIsActive = document.querySelector('.bullet.-isActive')
+var $cardIsActive = document.querySelector('.card.-isActive')
 
-$bullet.addEventListener('click', clickInBullet)
+console.log($cardIsActive)
+
+$bullet.forEach((item) => {
+    item.addEventListener('click', clickInBullet)
+})
 
 function clickInBullet() {
-    $bullet.classList.toggle('-isActive')
+    var $bulletClicked = this
+
+    $bulletIsActive.classList.remove('-isActive')
+    $bulletClicked.classList.add('-isActive')
+    $bulletIsActive = $bulletClicked
+
+    $cardIsActive.classList.remove('-isActive')
+    var idCard = $bulletClicked.querySelector('a').getAttribute('href')
+    var $targetCard = document.querySelector(idCard)
+    $targetCard.classList.add('-isActive')
+    $cardIsActive = $targetCard
 }

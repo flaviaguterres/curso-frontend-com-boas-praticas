@@ -3,7 +3,11 @@
     height: 320px;
     margin-bottom: 40px;
 }
+
 .main-carousel .card {
+    box-sizing: border-box;
+    padding-top: 30px;
+    padding-bottom: 40px;
     width: 685px;
     height: 100%;
     background-color: #754ef9;
@@ -11,14 +15,52 @@
     left: 50%;
     transform-origin: left center;
     transform: translateX(-50%);
+    font-size: 40px;
+    text-align: center;
+    box-shadow: 0 5px 30px 0 rgba(0, 0, 0, 0.07);
+    
+    transition: transform 400ms linear;
+}
 
-    transition: transform 200ms linear;
+.main-carousel .card.-left {
+    transform: translateX(-58%);
+}
+
+.main-carousel .card.-right {
+    transform: translateX(-42%);
 }
 
 .main-carousel .card.-isActive {
-    background-color: red;
+    background-color: #FFF;
     transform: scale(1.1) translateX(-50%);
     z-index: 1;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.08);
+}
+
+.main-carousel .wrapPicture {
+    display: inline-block;
+    border: 12px solid #B9A5FB;
+    border-radius: 50%;
+}
+
+.main-carousel .picture {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    border: 9px solid #9679F9;
+    float: left;
+}
+
+.main-carousel .name {
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+
+.main-carousel .testimony {
+    font-size: 14px;
+    color: rgba(32, 32, 32, 0.5);
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 .main-carousel .bullets {
