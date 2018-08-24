@@ -78,3 +78,8 @@ https://rocketseat.com.br/curso-javascript-basico-do-zero
 FERRAMENTAS PARA TESTE
 https://www.cypress.io/
 https://blisk.io/ (pago)
+
+Aula 10 (22/08/2018)
+
+CURSO JS
+https://jgthms.com/javascript-in-14-minutes/
