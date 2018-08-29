@@ -91,3 +91,26 @@ https://pastebin.com/yk8PRGGa
 
 IMAGENS DO LAYOUT
 https://drive.google.com/drive/folders/11oE1Yv2IzHhBFxw5BCkBkfk1HDQFQfJl
+
+Aula 12 (27/08/2018)
+
+https://flatuicolors.com/
+
+Organizando seu CSS com ITCSS
+https://willianjusten.com.br/organizando-seu-css-com-itcss/
+
+Aula 13 (28/08/2018)
+
+LIVROS
+Expressões Regulares - 5ª Edição
+https://novatec.com.br/livros/expressoes-regulares-5ed/
+
+Construindo aplicações com NodeJS - 2ª edição
+
+LAYOUTS
+https://dribbble.com/
+https://www.uplabs.com/
+https://ui8.net/
+
+
+https://novatec.com.br/livros/nodejs-2ed/
